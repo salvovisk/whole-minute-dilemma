@@ -1,0 +1,17 @@
+{
+  "name": "whole-minute-dilemma",
+  "version": "1.0.0",
+  "description": "whole-minute-dilemma",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "jest": "^27.4.5",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
